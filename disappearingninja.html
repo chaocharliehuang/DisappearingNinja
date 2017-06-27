@@ -8,10 +8,10 @@
         <script>
             $(document).ready(function() {
                 $('img').click(function() {
-                    $(this).fadeOut();
+                    $(this).hide('slow');
                 });
                 $('button').click(function() {
-                    $('img').fadeIn('slow');
+                    $('img').show('slow');
                 });
             });
         </script>
