@@ -1,0 +1,16 @@
+.wrapper {
+    width: 450px;
+    margin: 0 auto;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+button {
+    margin: 50px;
+    font-size: 150%;
+    background-color: green;
+    color: white;
+}
